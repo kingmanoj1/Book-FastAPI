@@ -25,7 +25,7 @@ This is a simple Book Management REST API built using [FastAPI](https://fastapi.
 pip install fastapi uvicorn python-jose
 
 ## Run the Server
-uvicorn arg_pro:app --reload --port 8001
+uvicorn main:app --reload --port 8001
 
 ## API Usage / Endpoints
 
